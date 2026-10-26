@@ -355,8 +355,8 @@
       }
     },
     "deed-page": {
-      "sha": "432d3f8ba80c203d1b48ce95a61260a31f76cfe0",
-      "version": "1.1.0",
+      "sha": "ad901ca70fb76d079bd5989e15af50bd89d6a2cb",
+      "version": "1.5.0",
       "components": {
         "mcpServers": [
           {
